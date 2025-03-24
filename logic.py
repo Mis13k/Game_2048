@@ -52,3 +52,5 @@ def compress(mat):
         new_mat.append([0] * 4)
 
     for i in range(4):
+        pass
+    #nigga
